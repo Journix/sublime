@@ -31,3 +31,4 @@ ctrl+shift+p --> pcip --> enter --> input what you want
 - 快速打开想打开的文件: Ctrl+p
 - 快速设置文件格式：ctrl+shift+p --> ssh|ssj --> enter
 - 标记一行：click --> ctrl+f2
+- 快速定位到某一行: ctrl+g
