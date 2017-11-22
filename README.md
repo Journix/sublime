@@ -32,3 +32,5 @@ ctrl+shift+p --> pcip --> enter --> input what you want
 - 快速设置文件格式：ctrl+shift+p --> ssh|ssj --> enter
 - 标记一行：click --> ctrl+f2
 - 快速定位到某一行: ctrl+g
+- 多行游标： ctrl+click
+- 选中同样的字段： ctrl+D 同时也会生成多行游标
