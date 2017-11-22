@@ -8,8 +8,8 @@ ctrl+shift+p --> pcip --> enter --> input what you want
 ### plugins：
 ---
 - HTML插件
-    - 快速编写HTML代码。初始化HTML页面结构，`html:5` & `Tab`;
-[Emmet Guide](https://scotch.io/tutorials/write-html-crazy-fast-with-emmet-an-interactive-guide)
+    - [Emmet Guide](https://scotch.io/tutorials/write-html-crazy-fast-with-emmet-an-interactive-guide): 快速编写HTML代码;初始化HTML页面结构，`html:5` & `Tab`;
+
 
 - 代码格式化
     - HTML-CSS-JS Prettify
