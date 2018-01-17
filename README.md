@@ -15,6 +15,13 @@ ctrl+shift+p --> pcip --> enter --> input what you want
     - HTML-CSS-JS Prettify
     - JsFormat
 
+- HTML代码转字符串
+    - QuoteHTML
+        - DOC: https://packagecontrol.io/packages/QuoteHTML
+        - use: ctrl+shift+p
+
+
+
 - 其他
     - BracketHighlighter： 代码匹配，查看闭合标签
     - Autoprefixer：解决浏览器兼容问题
