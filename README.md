@@ -20,6 +20,16 @@ ctrl+shift+p --> pcip --> enter --> input what you want
         - DOC: https://packagecontrol.io/packages/QuoteHTML
         - use: ctrl+shift+p
 
+- markdown 
+    - markdown Editing
+        - 支持Markdown语法高亮；支持Github Favored Markdown语法；自带3个主题
+    - MarkdownPreview
+        - 按CTRL + B生成网页HTML；在最前面添加[TOC]自动生成目录；
+    - OmniMarkupPreviwer
+        - Ctrl+Alt+O: Preview Markup in Browser.
+        - Ctrl+Alt+X: Export Markup as HTML.
+        - Ctrl+Alt+C: Copy Markup as HTML.
+
 
 
 - 其他
@@ -41,3 +51,6 @@ ctrl+shift+p --> pcip --> enter --> input what you want
 - 快速定位到某一行: ctrl+g
 - 多行游标： ctrl+click
 - 选中同样的字段： ctrl+D 同时也会生成多行游标
+
+### 参考
+- https://www.jianshu.com/p/aa30cc25c91b
