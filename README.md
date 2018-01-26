@@ -29,7 +29,8 @@ ctrl+shift+p --> pcip --> enter --> input what you want
         - Ctrl+Alt+O: Preview Markup in Browser.
         - Ctrl+Alt+X: Export Markup as HTML.
         - Ctrl+Alt+C: Copy Markup as HTML.
-
+    - MarkdownLivePreview(目前体验最好)
+        - Shift+Cmd+P 选择 MarkdownLivePreview:Edit Current File
 
 
 - 其他
